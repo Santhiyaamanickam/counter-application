@@ -1,0 +1,24 @@
+.counter {
+  text-align: center;
+  margin-top: 100px;
+  font-family: Arial, sans-serif;
+}
+
+.counter h1 {
+  font-size: 40px;
+}
+
+.counter h2 {
+  font-size: 35px;
+}
+
+.counter p {
+  font-size: 20px;
+}
+
+.counter button {
+  padding: 12px 20px;
+  margin: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
